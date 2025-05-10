@@ -28,10 +28,9 @@ Displays data through a Streamlit interface
 Allows sorting of media and exporting results
 
 📦 Libraries Used
-Library	Purpose
-streamlit	Web UI framework
-httpx	HTTP requests to Instagram API
-json	Handling JSON responses
-PIL	Displaying images in the UI
-time	Formatting timestamps
-BytesIO	For loading profile images from binary data
+streamlit	
+httpx
+json
+PIL
+time
+BytesIO
