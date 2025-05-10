@@ -28,9 +28,9 @@ Displays data through a Streamlit interface
 Allows sorting of media and exporting results
 
 📦 Libraries Used
-streamlit	
-httpx
-json
-PIL
-time
+streamlit,
+httpx,
+json,
+PIL,
+time,
 BytesIO
